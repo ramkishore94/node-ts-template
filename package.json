@@ -1,0 +1,12 @@
+{
+	"name": "question",
+	"version": "1.0.0",
+	"description": "",
+	"main": "server.js",
+	"type": "commonjs",
+	"scripts": {
+		"test": "nodemon ./dist/server.js"
+	},
+	"author": "kishore",
+	"license": "MIT"
+}
